@@ -1,0 +1,41 @@
+*{
+ margin: 0%;
+ padding: 0%;
+}
+
+.container1{
+background:url(assets/bgHeader.png) ;
+background-repeat: no-repeat;
+background-size: 100%;
+padding: 550px;
+}
+
+.container1 h1{
+    text-align: center;
+    margin: -300px 0px 0px 70px ;
+    color: orange;
+    font-size: 70px;
+
+
+}
+
+.container1 p{
+    text-align: center;
+    font-size: 44px;
+
+}
+
+.container1 button{
+    margin: 150px 0px 0px 350px;
+    border: none;
+    background-color: orange;
+    padding: 20px;
+    border-radius: 20px;
+
+
+}
+
+.container2{
+    display: flex;
+
+}
